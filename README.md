@@ -1,3 +1,3 @@
 # padrao-bem-exemplo
 Projeto modelo para demonstração do padrão BEM em CSS
- https://cernandes.github.io/teste-if-ecadeado/
+ https://cernandes.github.io/teste-if-encadeado/
